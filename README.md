@@ -11,4 +11,4 @@ Take a look at the average, marked as an "X", for example. The average fundraisi
 
 A suggestion for anyone interested in launching their own musical would be to ***plan the launch in the summer months.*** People seem to attend these events during these times. 
 
-Another suggestion, due to these trends shown above, would be to have a lower fundraising goal of ***around $2,000.*** Theres a tendency of asking for too much money right off the bat that it could seem intimidating to most, ending with the result of not coming anywhere near the fundraising goal.
+Another suggestion, due to these trends shown above, would be to have a lower fundraising goal of ***around $2,000.*** There's a tendency of asking for **too much** money early on that it could seem intimidating to most, ending with the result of not coming anywhere near the fundraising goal.
