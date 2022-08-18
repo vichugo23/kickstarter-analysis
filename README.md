@@ -1,4 +1,4 @@
-# An Analysis of Kickstarter Campaigns
+# Kickstarting With Excel
 ## Overview of Project
 Performing analysis on kickstarter data to uncover trends for Louise.
 
