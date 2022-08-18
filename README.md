@@ -20,3 +20,6 @@ Another suggestion, due to these trends shown above, would be to have a lower fu
 ### Challenges and Difficulties Encountered
 
 I did have some difficulty getting used to creating some of the charts and getting familiar with which data point goes where. My biggest challenge was plugging in the countifs formula. I had assumed that even after ***sorting*** the data on the kickstarter sheet that I wouldn't have to plug in "successful', and "plays" keywords into the formula. Not only that but I kept plugging in the wrong column into the equation which would result in an error in value.
+
+## Results
+After gathering all the data given and organizing we can conclude that the campaigns launched in May and June resulted in a high success rate. It is also shown that the campaigns that asked for less funding ended up having a higher success rate than the ones that asked for a lot more funding. So if Louise wanted to start her own musical she should look into starting it into the summer months rather than later throughout the year. And also to keep the fundraising goals around the $1000-$5000 range.
