@@ -15,4 +15,6 @@ A suggestion for anyone interested in launching their own musical would be to **
 
 Another suggestion, due to these trends shown above, would be to have a lower fundraising goal of ***around $2,000.*** There's a tendency of asking for *too much* money early on that it could seem intimidating to most, ending with the result of not coming anywhere near the fundraising goal.
 
+### Challenges
 
+I did have some difficulty getting used to creating some of the charts and getting familiar with which data point goes where. My biggest challenge was plugging in the countifs formula. I had assumed that even after ***sorting*** the data on the kickstarter sheet that I wouldn't have to plug in "successful', and "plays" keywords into the formula. Not only that but I kept plugging in the wrong column into the equation which would result in an error in value.
