@@ -7,9 +7,6 @@ The overall analysis is composed of kickstarter campaigns launched from various 
 
 
 
-Take a look at the average, marked as an "X", for example. The average fundraising goal was $4,000. The average money that was **actually** funded was ***less than half*** of the goal.
-
-
 A suggestion for anyone interested in launching their own musical would be to ***plan the launch in the summer months.*** People seem to attend these events more during these times. 
 
 Another suggestion, due to these trends shown above, would be to have a lower fundraising goal of ***around $2,000.*** There's a tendency of asking for *too much* money early on that it could seem intimidating to most, ending with the result of not coming anywhere near the fundraising goal.
