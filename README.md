@@ -7,7 +7,6 @@ The overall analysis is composed of kickstarter campaigns launched from various 
 
 
 
-![theater kickstarter fundraising](https://user-images.githubusercontent.com/110702997/185025810-394ac708-f6f0-4ee3-b84b-cdfaff0650dd.png)
 Take a look at the average, marked as an "X", for example. The average fundraising goal was $4,000. The average money that was **actually** funded was ***less than half*** of the goal.
 
 
