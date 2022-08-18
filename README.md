@@ -1,7 +1,9 @@
 # An Analysis of Kickstarter Campaigns
-## Performing analysis on kickstarter data to uncover trends for Louise.
+## Overview of Project
+Performing analysis on kickstarter data to uncover trends for Louise.
 
-### The overall analysis is composed of kickstarter campaigns launched from various countries. The campaigns vary in categories such as food trucks, television series, music, and much more.
+### Purpose
+The overall analysis is composed of kickstarter campaigns launched from various countries. The campaigns vary in categories such as food trucks, television series, music, and much more.
 
 The chart below shows musical kickstarter campaigns launched throughout the year. May and June had a much higher success rate than the campaigns launched in the later months.
 ![outcomes based on launch date](https://user-images.githubusercontent.com/110702997/185024477-285ec222-a0d9-40f1-a2fc-01585f7f7b17.png)
@@ -15,6 +17,6 @@ A suggestion for anyone interested in launching their own musical would be to **
 
 Another suggestion, due to these trends shown above, would be to have a lower fundraising goal of ***around $2,000.*** There's a tendency of asking for *too much* money early on that it could seem intimidating to most, ending with the result of not coming anywhere near the fundraising goal.
 
-### Challenges
+### Challenges and Difficulties Encountered
 
 I did have some difficulty getting used to creating some of the charts and getting familiar with which data point goes where. My biggest challenge was plugging in the countifs formula. I had assumed that even after ***sorting*** the data on the kickstarter sheet that I wouldn't have to plug in "successful', and "plays" keywords into the formula. Not only that but I kept plugging in the wrong column into the equation which would result in an error in value.
