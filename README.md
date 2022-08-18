@@ -1,7 +1,7 @@
 # An Analysis of Kickstarter Campaigns
-Performing analysis on kickstarter data to uncover trends for Louise.
+## Performing analysis on kickstarter data to uncover trends for Louise.
 
-## The overall analysis is composed of kickstarter campaigns launched from various countries. The campaigns vary in categories such as food trucks, television series, music, and much more.
+### The overall analysis is composed of kickstarter campaigns launched from various countries. The campaigns vary in categories such as food trucks, television series, music, and much more.
 
 The chart below shows musical kickstarter campaigns launched throughout the year. May and June had a much higher success rate than the campaigns launched in the later months.
 ![outcomes based on launch date](https://user-images.githubusercontent.com/110702997/185024477-285ec222-a0d9-40f1-a2fc-01585f7f7b17.png)
