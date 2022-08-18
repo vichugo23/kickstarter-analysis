@@ -23,3 +23,6 @@ The campaigns that had extremely high fundraising goals have a trend of not meet
 ## Results
 After gathering all the data given and organizing we can conclude that the campaigns launched in May and June resulted in a high success rate. It is also shown that the campaigns that asked for less funding ended up having a higher success rate than the ones that asked for a lot more funding. So if Louise !
 wanted to start her own musical she should look into starting it into the summer months rather than later throughout the year. And also to keep the fundraising goals around the $1000-$5000 range. There could be one limitation to this dataset that could skew the data. The dataset collected comes from various countries all over the world. We could face the issue where if one country is just not that into theater or don't have a good theater program to which the campaign failed, regardless of meeting their fundraising goals. The location of these campaigns can be crucial to their success. If we were to have another chart where we could include which country each campaign was at then maybe we could some more context on which campaigns were successful.
+
+[Kickstarter_challenge copy.xlsx.zip](https://github.com/vichugo23/kickstarter-analysis/files/9367409/Kickstarter_challenge.copy.xlsx.zip)
+
