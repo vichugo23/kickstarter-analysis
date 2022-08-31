@@ -12,7 +12,8 @@ I did have some difficulty getting used to creating some of the charts and getti
 
 ## Analysis of Outcomes Based on Launch Date
 The chart below shows theater kickstarter campaigns launched throughout the year. May and June had a much higher success rate than the campaigns launched in the later months.
-[Theater Outcome vs Launch](https://user-images.githubusercontent.com/110702997/185280790-8b68a9e4-d416-46ee-ae35-84b837f38ce7.png)
+![Theater Outcome vs Launch](https://user-images.githubusercontent.com/110702997/187585782-b6ad98d4-0528-4b97-bb85-7d46607453cf.png)
+
 
 ## Analysis of Outcomes Based on Goals
 The campaigns that had extremely high fundraising goals have a trend of not meeting their goal as shown in the chart below.
